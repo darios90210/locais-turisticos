@@ -29,7 +29,7 @@
 
     .destino_1,
     .destino_2,
-    .destino_3
+    .destino_3{
         img {
         height: 35rem;
         object-fit: cover;
@@ -44,5 +44,14 @@
         p {
         margin-bottom: 2.4rem;
         }
-}
+    }
+        .destino_1
+        .destino_2 {
+            margin-bottom: 4.8ren;
+
+        li {
+            color: var (--accent-blue)
+        }
+        }
+    }
 }
